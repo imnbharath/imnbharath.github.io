@@ -140,3 +140,9 @@ nav{
 	left: 0;
 	top: 0;
 }
+
+@media only screen and (max-width: 600px) {
+	.controls .information {
+	  width: 50%;
+	}
+  }
